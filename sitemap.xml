@@ -7,9 +7,18 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://soru13.github.io/Dentista/#Contact</loc>
+  <loc>http://soru13.github.io/barbasgeek/#Contact</loc>
 </url>
 <url>
-  <loc>http://soru13.github.io/Dentista/#aboutme</loc>
+  <loc>http://soru13.github.io/barbasgeek/#aboutme</loc>
+</url>
+<url>
+  <loc>http://soru13.github.io/barbasgeek/#myKnowledgeIOS</loc>
+</url>
+<url>
+  <loc>http://soru13.github.io/barbasgeek/#imgBackend</loc>
+</url>
+<url>
+  <loc>http://soru13.github.io/barbasgeek/#imgFrontend</loc>
 </url>
 </urlset>
